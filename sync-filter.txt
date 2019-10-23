@@ -1,0 +1,7 @@
++ /client.py
++ /server.py
++ /fernet.py
++ /venv
+- /*.sh
+- /.idea/
+- /*.txt
